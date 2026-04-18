@@ -32,12 +32,13 @@
       "_comment": "Banner ad displayed on selected screens",
       "enabled": true,
       "_comment_enabled": "Turn banner on or off",
-      "ad_id": "ca-app-pub-3940256099942544/9214589741",
+      "ad_id": "ca-app-pub-3940256099942544/6300978111",
       "_comment_ad_id": "Unique Ad Unit ID for the banner",
       "screens": [
         "home",
         "search",
-        "favorites"
+        "favorites",
+        "details"
       ],
       "_comment_screens": "List of screens where the banner appears"
     },
